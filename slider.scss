@@ -8,6 +8,7 @@ $teal: #17ACD2;
 $charcoal: #403F3F;
 
 #container {
+    @extend .no-select;
     @extend .center;
     width: 300px;
     height: 20px;
